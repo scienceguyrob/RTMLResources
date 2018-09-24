@@ -17,8 +17,6 @@ I have also provided a Dockerfile that you can use to build an environment that 
 
 I kindly request that if you make use of the resources, please cite them using the bibtex reference found at the top of each notebook.
 
-Finally note that a colleague has also provided another example for you to look through, see *Predicting_Pulsar_Candidates.ipynb*.
-
 ### License
 The code and the contents of this notebook are released under the GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007. We kindly request that if you make use of the notebook, you cite the work appropriately. The images are exempt from this, as some are used in publications I've written in the past (though I can use them here). If you'd like to use the images please let me know, and I'll sort something out.
 

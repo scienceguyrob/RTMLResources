@@ -1,4 +1,4 @@
-# OAD Data Science Toolkit - Pulsar Classification Examples and Tutorials
+# RTML Network Workshop Resources
 
 ## Author: Dr. Rob Lyon
 ## Email : robert.lyon@manchester.ac.uk

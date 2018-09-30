@@ -1,0 +1,38 @@
+Radiotherapy Machine Learning Network
+1st Workshop
+Schuster Annexe, School of Physics and Astronomy, University of Manchester
+Upper Brook Street, Manchester, M13 0HR
+
+
+Agenda
+
+Monday October 1st
+
+10:00 – 10:30: Arrival, registration, coffee.
+10:30 – 10:45: Introduction and aims of the RTML network (Rob Lyon & Tim Rattay)
+10:45 – 11:30: Three 15 minute talks which introduce,
+1.	Radiotherapy – its clinical importance and challenges (Sarah Osman & Tim Rattay)
+2.	Machine Learning – how does it relate to Radiotherapy (Rob Lyon)
+3.	Radiotherapy data – formats and issues (Andrew Green)
+11:30 – 11:45: Break
+11:45 – 12:30: Open research questions and data
+12:30 – 13:00: Forming of teams/groups around identified research questions and data
+13:00 – 14:00: Lunch
+14:00 – 14:30: Forming of teams continued...
+14:30 – 15:00: Develop research proposals within each group
+15:00 – 15:15: Coffee break
+15:15 – 17:00: Group presentations of research proposals
+
+
+Tuesday October 2nd
+
+09:00 – 09:30: Arrival, coffee.
+09:30 – 11:00: Working on the proposals and required data
+11:00 – 11:15: Break
+11:15 – 12:00: Working on project – hacking code, writing paper introductions (as groups see fit)
+12:00 – 13:00: Lunch
+13:00 – 15:00: Continue working on the project, determine what needs to happen to move forward
+15:00 – 15:15: Coffee break
+15:15 – 16:30: Group presentations and progress update.
+
+

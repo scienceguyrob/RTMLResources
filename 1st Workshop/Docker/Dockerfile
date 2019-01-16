@@ -71,7 +71,8 @@ RUN conda install -y \
     scipy \
     matplotlib \
     scikit-learn \
-    scikit-image
+    scikit-image \
+    jupyter
 
 
 RUN conda install -c conda-forge tensorflow \
